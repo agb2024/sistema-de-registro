@@ -9,3 +9,5 @@ funcionalidades;
 Cómo pueden usarlo los usuarios;
 Donde los usuarios pueden encontrar ayuda sobre su proyecto;
 Autores del proyecto.
+
+Prueba para que aparezca en la versión de escritorio de mi lap
